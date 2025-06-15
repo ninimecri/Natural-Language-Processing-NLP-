@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+lightgbm
+transformers
+torch
+matplotlib
+seaborn
+tqdm
+
+python -m spacy download en_core_web_sm
+
+pandas==1.5.3
+scikit-learn==1.2.2
